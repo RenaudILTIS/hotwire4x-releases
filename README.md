@@ -1,9 +1,9 @@
 # HotWire4X / FilChaud4X
 
-Official downloads for **HotWire4X / FilChaud4X**, 4-axis hot wire CNC 
+Official downloads for **HotWire4X**, 4-axis hot wire CNC 
 cutting software for Windows and macOS.
 
-Téléchargements officiels de **HotWire4X / FilChaud4X**, logiciel de 
+Téléchargements officiels de **FilChaud4X**, logiciel de 
 découpe CNC au fil chaud 4 axes pour Windows et macOS.
 
 ---
