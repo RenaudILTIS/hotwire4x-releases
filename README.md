@@ -1,4 +1,3 @@
-# hotwire4x-releases
 # HotWire4X / FilChaud4X
 
 Official downloads for **HotWire4X / FilChaud4X**, 4-axis hot wire CNC 
