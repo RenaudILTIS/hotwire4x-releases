@@ -35,6 +35,10 @@ The installers are not code-signed. / Les installeurs ne sont pas signés.
 - **Windows** — SmartScreen shows "Windows protected your PC": **More info ▸ Run anyway**.
   SmartScreen affiche « Windows a protégé votre ordinateur » : **Informations complémentaires ▸
   Exécuter quand même**.
+
+  <img src="images/smartscreen-1.png" width="380" alt="SmartScreen, step 1: More info / Informations complémentaires">
+  <img src="images/smartscreen-2.png" width="380" alt="SmartScreen, step 2: Run anyway / Exécuter quand même">
+
 - **macOS** — Gatekeeper refuses a plain double-click. Up to macOS 14: right-click the app ▸
   **Open**. From macOS 15: open the app once, then **System Settings ▸ Privacy & Security ▸ Open
   Anyway**.
