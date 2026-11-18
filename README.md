@@ -14,14 +14,20 @@ Website / Site : [hotwire4x.com](https://hotwire4x.com)
 
 | System / Système | File / Fichier |
 |---|---|
-| Windows 10 (1809+) / 11, 64-bit | [HotWire4X-Windows.exe](https://github.com/RenaudILTIS/hotwire4x-releases/releases/latest/download/HotWire4X-Windows.exe) |
-| macOS 13 Ventura+, Apple Silicon (M1 and later / M1 et suivants) | [HotWire4X-macOS.dmg](https://github.com/RenaudILTIS/hotwire4x-releases/releases/latest/download/HotWire4X-macOS.dmg) |
+| Windows 10 (1809+) / 11, 64-bit | `HotWire4X-Windows.exe` |
+| macOS 13 Ventura+, Apple Silicon (M1 and later / M1 et suivants) | `HotWire4X-macOS.dmg` |
 
-These links always deliver the latest version. Version history and release notes:
+**Download the current version for your system from the website:**
+[EN](https://hotwire4x.com/go/download?lang=en) · [FR](https://hotwire4x.com/go/download?lang=fr).
+Windows and macOS do not always have the same version: a fix that concerns one system is
+released for that system only. Version history and release notes:
 **[Releases](https://github.com/RenaudILTIS/hotwire4x-releases/releases)**.
 Macs with an Intel processor are not supported.
 
-Ces liens donnent toujours la dernière version. Historique des versions et notes de version :
+**Téléchargez la version en cours pour votre système sur le site :**
+[EN](https://hotwire4x.com/go/download?lang=en) · [FR](https://hotwire4x.com/go/download?lang=fr).
+Windows et macOS n'ont pas toujours la même version : une correction qui ne concerne qu'un
+système ne sort que pour lui. Historique des versions et notes de version :
 **[Releases](https://github.com/RenaudILTIS/hotwire4x-releases/releases)**.
 Les Mac à processeur Intel ne sont pas pris en charge.
 
